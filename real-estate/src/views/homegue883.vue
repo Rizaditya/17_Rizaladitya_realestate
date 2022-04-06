@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="homegue883-container">
     <div class="homegue883-homegue883">
       <img
         alt="Vector911200"
@@ -8,20 +8,20 @@
       />
       <div class="homegue883-maskgroup1923">
         <img
-          alt="Rectangle101924"
           src="/playground_assets/rectangle101924-tgbp-600w.png"
+          alt="Rectangle101924"
           class="homegue883-image"
         />
       </div>
       <img
-        alt="Rectangle411267"
         src="/playground_assets/rectangle411267-4lwu-700w.png"
+        alt="Rectangle411267"
         class="homegue883-image01"
       />
       <div class="homegue883-maskgroup11191">
         <img
-          alt="image711190"
           src="/playground_assets/image711190-1vxr-1300w.png"
+          alt="image711190"
           class="homegue883-image02"
         />
       </div>
@@ -41,7 +41,7 @@
           <br />
           <span>
             Dream
-            <span v-html="raw5q72"></span>
+            <span v-html="rawjwpx"></span>
           </span>
         </span>
         <span class="homegue883-text007">House</span>
@@ -84,25 +84,25 @@
       <span class="homegue883-text024">
         <span class="homegue883-text025">
           Featured
-          <span v-html="rawcmdi"></span>
+          <span v-html="raw0z4z"></span>
         </span>
         <span class="homegue883-text026">Property</span>
       </span>
       <div class="homegue883-cardproperty119103">
         <img
-          alt="Rectangle1311269"
           src="/playground_assets/rectangle1311269-xbj-400h.png"
+          alt="Rectangle1311269"
           class="homegue883-image03"
         />
         <img
-          alt="Rectangle611164"
           src="/playground_assets/rectangle611164-2mtd-500h.png"
+          alt="Rectangle611164"
           class="homegue883-image04"
         />
         <div class="homegue883-maskgroup11204">
           <img
-            alt="image911203"
             src="/playground_assets/image911203-0lz-600w.png"
+            alt="image911203"
             class="homegue883-image05"
           />
         </div>
@@ -124,16 +124,16 @@
         </span>
         <div class="homegue883-maskgroup11230">
           <img
-            alt="image1111229"
             src="/playground_assets/image1111229-iszc-400h.png"
+            alt="image1111229"
             class="homegue883-image06"
           />
         </div>
       </div>
       <div class="homegue883-maskgroup11240">
         <img
-          alt="image511177"
           src="/playground_assets/image511177-l6jr-900h.png"
+          alt="image511177"
           class="homegue883-image07"
         />
       </div>
@@ -146,8 +146,8 @@
         </span>
         <div class="homegue883-maskgroup11248">
           <img
-            alt="image1011252"
             src="/playground_assets/image1011252-c99-600w.png"
+            alt="image1011252"
             class="homegue883-image08"
           />
         </div>
@@ -163,26 +163,26 @@
         </span>
         <div class="homegue883-maskgroup11227">
           <img
-            alt="image1011226"
             src="/playground_assets/image1011226-ill-600w.png"
+            alt="image1011226"
             class="homegue883-image09"
           />
         </div>
       </div>
       <img
-        alt="btnnext11259"
         src="/playground_assets/btnnext11259-yr2z.svg"
+        alt="btnnext11259"
         class="homegue883-image10"
       />
       <div class="homegue883-searchproperty19113">
         <img
-          alt="shadow1994"
           src="/playground_assets/shadow1994-5pp-200h.png"
+          alt="shadow1994"
           class="homegue883-image11"
         />
         <img
-          alt="Rectangle2864"
           src="/playground_assets/rectangle2864-lt7-200h.png"
+          alt="Rectangle2864"
           class="homegue883-image12"
         />
         <div class="homegue883-btnsearch19111">
@@ -190,14 +190,14 @@
             <span class="homegue883-text044">Search</span>
           </span>
           <img
-            alt="akariconssearch878"
             src="/playground_assets/akariconssearch878-m9cb.svg"
+            alt="akariconssearch878"
             class="homegue883-image13"
           />
         </div>
         <img
-          alt="divider19108"
           src="/playground_assets/divider19108-qlsg.svg"
+          alt="divider19108"
           class="homegue883-image14"
         />
         <div class="homegue883-averageprice19110">
@@ -264,8 +264,8 @@
             class="homegue883-svg06"
           />
           <img
-            alt="fluentshieldtask48filled11273"
             src="/playground_assets/fluentshieldtask48filled11273-8rfr.svg"
+            alt="fluentshieldtask48filled11273"
             class="homegue883-image15"
           />
         </div>
@@ -282,8 +282,8 @@
             class="homegue883-svg07"
           />
           <img
-            alt="fluenthome24filled11275"
             src="/playground_assets/fluenthome24filled11275-82bh.svg"
+            alt="fluenthome24filled11275"
             class="homegue883-image16"
           />
         </div>
@@ -302,8 +302,8 @@
             class="homegue883-svg08"
           />
           <img
-            alt="mdihandshake11278"
             src="/playground_assets/mdihandshake11278-a04e.svg"
+            alt="mdihandshake11278"
             class="homegue883-image17"
           />
         </div>
@@ -320,8 +320,8 @@
             class="homegue883-svg09"
           />
           <img
-            alt="fluentdocumentonepage24filled11280"
             src="/playground_assets/fluentdocumentonepage24filled11280-hswk.svg"
+            alt="fluentdocumentonepage24filled11280"
             class="homegue883-image18"
           />
         </div>
@@ -396,18 +396,18 @@
           <span class="homegue883-text117">Terms</span>
         </span>
         <img
-          alt="antdesigninstagramfilled1712"
           src="/playground_assets/antdesigninstagramfilled1712-59ul.svg"
+          alt="antdesigninstagramfilled1712"
           class="homegue883-image19"
         />
         <img
-          alt="bxltiktok1714"
           src="/playground_assets/bxltiktok1714-81jl.svg"
+          alt="bxltiktok1714"
           class="homegue883-image20"
         />
         <img
-          alt="bxlfacebook1716"
           src="/playground_assets/bxlfacebook1716-i9mc.svg"
+          alt="bxlfacebook1716"
           class="homegue883-image21"
         />
       </div>
@@ -418,8 +418,8 @@
           class="homegue883-svg11"
         />
         <img
-          alt="phbuildingsfill1935"
           src="/playground_assets/phbuildingsfill1935-foui.svg"
+          alt="phbuildingsfill1935"
           class="homegue883-image22"
         />
       </div>
@@ -436,33 +436,33 @@
           <span class="homegue883-text121">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec
             ac iaculis ullamcorper porttitor at integer sodales consequat.
-            <span v-html="rawb6vq"></span>
+            <span v-html="rawebd2"></span>
           </span>
         </span>
         <div class="homegue883-group191953">
           <img
-            alt="antdesignstarfilled1943"
             src="/playground_assets/antdesignstarfilled1943-cesn.svg"
+            alt="antdesignstarfilled1943"
             class="homegue883-image23"
           />
           <img
-            alt="antdesignstarfilled1945"
             src="/playground_assets/antdesignstarfilled1945-z505.svg"
+            alt="antdesignstarfilled1945"
             class="homegue883-image24"
           />
           <img
-            alt="antdesignstarfilled1947"
             src="/playground_assets/antdesignstarfilled1947-fkns.svg"
+            alt="antdesignstarfilled1947"
             class="homegue883-image25"
           />
           <img
-            alt="antdesignstarfilled1949"
             src="/playground_assets/antdesignstarfilled1949-m3c.svg"
+            alt="antdesignstarfilled1949"
             class="homegue883-image26"
           />
           <img
-            alt="antdesignstarfilled1951"
             src="/playground_assets/antdesignstarfilled1951-ikgj.svg"
+            alt="antdesignstarfilled1951"
             class="homegue883-image27"
           />
         </div>
@@ -483,33 +483,33 @@
           <span class="homegue883-text127">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec
             ac iaculis ullamcorper porttitor at integer sodales consequat.
-            <span v-html="rawm5qf"></span>
+            <span v-html="raw5o3g"></span>
           </span>
         </span>
         <div class="homegue883-group201959">
           <img
-            alt="antdesignstarfilled1960"
             src="/playground_assets/antdesignstarfilled1960-ec5c.svg"
+            alt="antdesignstarfilled1960"
             class="homegue883-image28"
           />
           <img
-            alt="antdesignstarfilled1962"
             src="/playground_assets/antdesignstarfilled1962-7ipa.svg"
+            alt="antdesignstarfilled1962"
             class="homegue883-image29"
           />
           <img
-            alt="antdesignstarfilled1964"
             src="/playground_assets/antdesignstarfilled1964-egob.svg"
+            alt="antdesignstarfilled1964"
             class="homegue883-image30"
           />
           <img
-            alt="antdesignstarfilled1966"
             src="/playground_assets/antdesignstarfilled1966-ebd.svg"
+            alt="antdesignstarfilled1966"
             class="homegue883-image31"
           />
           <img
-            alt="antdesignstarfilled1968"
             src="/playground_assets/antdesignstarfilled1968-tg8.svg"
+            alt="antdesignstarfilled1968"
             class="homegue883-image32"
           />
         </div>
@@ -530,33 +530,33 @@
           <span class="homegue883-text133">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec
             ac iaculis ullamcorper porttitor at integer sodales consequat.
-            <span v-html="raw6wpp"></span>
+            <span v-html="rawkm39"></span>
           </span>
         </span>
         <div class="homegue883-group211974">
           <img
-            alt="antdesignstarfilled1975"
             src="/playground_assets/antdesignstarfilled1975-7v4.svg"
+            alt="antdesignstarfilled1975"
             class="homegue883-image33"
           />
           <img
-            alt="antdesignstarfilled1977"
             src="/playground_assets/antdesignstarfilled1977-i9io.svg"
+            alt="antdesignstarfilled1977"
             class="homegue883-image34"
           />
           <img
-            alt="antdesignstarfilled1979"
             src="/playground_assets/antdesignstarfilled1979-dg7s.svg"
+            alt="antdesignstarfilled1979"
             class="homegue883-image35"
           />
           <img
-            alt="antdesignstarfilled1981"
             src="/playground_assets/antdesignstarfilled1981-ymr7.svg"
+            alt="antdesignstarfilled1981"
             class="homegue883-image36"
           />
           <img
-            alt="antdesignstarfilled1983"
             src="/playground_assets/antdesignstarfilled1983-yhs2.svg"
+            alt="antdesignstarfilled1983"
             class="homegue883-image37"
           />
         </div>
@@ -583,21 +583,27 @@
 <script>
 export default {
   name: 'Homegue883',
-  props: {},
 
   data() {
     return {
-      raw5q72: ' ',
-      rawcmdi: ' ',
-      rawb6vq: ' ',
-      rawm5qf: ' ',
-      raw6wpp: ' ',
+      rawjwpx: ' ',
+      raw0z4z: ' ',
+      rawebd2: ' ',
+      raw5o3g: ' ',
+      rawkm39: ' ',
     }
+  },
+
+  metaInfo: {
+    title: 'exported project',
   },
 }
 </script>
 
 <style scoped>
+.homegue883-container {
+  min-height: 100vh;
+}
 .homegue883-homegue883 {
   width: 1512px;
   height: 4318px;
